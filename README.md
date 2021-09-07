@@ -1,4 +1,6 @@
-# Launch Options
+# Apex config & tweaks
+
+## Launch Options
 
 | **Command**  | **Description** |
 | ------------- | ------------- |
@@ -8,7 +10,7 @@
 | -window  | Starts the game in windowed mode  |
 | -noborder  | Removes window border  |
 
-# Autoexec
+## Autoexec
 1. Go to the games directory. (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg)
 2. Create there a new file called "autoexec.cfg" (without the Quotation marks)
 3. Paste everything from [autoexec](https://raw.githubusercontent.com/deaFPS/apex-configs-by-deafps/master/autoexec.cfg) in it.
@@ -16,7 +18,7 @@
 5. Add the Launch Option "+exec autoexec.cfg" (without the Quotation marks)
 
 
-# Videoconfig
+## Videoconfig
 1. Press Win+R while you are on your desktop.
 2. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks)
 3. Open up the Videoconfig.txt with Wordpad or Notepad++.
@@ -24,7 +26,7 @@
 5. Save and make the file read-only.
 
 
-# Consistant frame caping
+## Consistant frame caping
 Use RTSS for framerate caping over build-in game engines caps. RTSS is the best in frametime consistancy.
 Apex Legends and other Soruce Engine games cannot register inputs between frames. The more frames the more often Apex can register inputs.
 If your framerate is flactuating your "mouse feeling" will feel off and inconsistent.
