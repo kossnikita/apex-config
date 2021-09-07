@@ -1,12 +1,12 @@
 # APEX CONFIGS & TWEAKS BY DEAFPS
 
 # Launch Options
-| **Command** | **Description** |
-| -dev  | Skips EA intro on startup |
-| +building_cubemaps 1 | Removes Top and Bottom Backbars in 4:3 stretched if you alt+enter 2x in continue screen |
-| +exec|Executes a cfg file on startup |
-| -window | Starts the game in windowed mode |
-| -noborder | Removes window border |
+| **Command**  | **Description**  |
+| -dev  | Skips EA intro on startup  |
+| +building_cubemaps 1  | Removes Top and Bottom Backbars in 4:3 stretched if you alt+enter 2x in continue screen  |
+| +exec  |Executes a cfg file on startup  |
+| -window  | Starts the game in windowed mode  |
+| -noborder  | Removes window border  |
 
 # Autoexec
 1. Go to the games directory. (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg)
