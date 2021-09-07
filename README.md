@@ -1,12 +1,20 @@
 # APEX CONFIGS & TWEAKS BY DEAFPS
 
+# Launch Options
+| **Command**  | **Description** |
+| ------------- | ------------- |
+| -dev  | Skips EA intro on startup  |
+| +building_cubemaps 1  | Removes Top and Bottom Backbars in 4:3 stretched if you alt+enter 2x in continue screen  |
+| +exec  | Executes a cfg file on startup  |
+| -window  | Starts the game in windowed mode  |
+| -noborder  | Removes window border  |
+
 # Autoexec
-1. Go to the games directory. (Usually in C:\Program Files (x86)\Origin Games\Apex\cfg)
+1. Go to the games directory. (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg)
 2. Create there a new file called "autoexec.cfg" (without the Quotation marks)
 3. Paste everything from [autoexec](https://raw.githubusercontent.com/deaFPS/apex-configs-by-deafps/master/autoexec.cfg) in it.
-4. Rightclick on the game inside of Origin and go to "Game Properties".
-5. Switch to the "Advanced Launch Options" Tab.
-6. Add the Command line argument "+exec autoexec.cfg" (without the Quotation marks)
+4. Rightclick on the game inside of Steam and go to "Properties".
+5. Add the Launch Option "+exec autoexec.cfg" (without the Quotation marks)
 
 
 # Videoconfig
@@ -14,7 +22,7 @@
 2. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks)
 3. Open up the Videoconfig.txt with Wordpad or Notepad++.
 4. Replace everything in it with the code from [videoconfig](https://raw.githubusercontent.com/deaFPS/apex-configs-by-deafps/master/videoconfig.txt)
-5. Save and make the file read-only. (also make sure your Origin Cloud Sync is disabled in the origin settings)
+5. Save and make the file read-only.
 
 
 # Consistant frame caping
