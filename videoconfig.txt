@@ -2,7 +2,7 @@
 {
 	"setting.cl_gib_allow"		"0"
 	"setting.cl_particle_fallback_base"		"4"
-	"setting.cl_particle_fallback_multiplier"		"4"
+	"setting.cl_particle_fallback_multiplier"		"2"
 	"setting.cl_ragdoll_maxcount"		"0"
 	"setting.cl_ragdoll_self_collision"		"1"
 	"setting.mat_forceaniso"		"16"
@@ -12,7 +12,7 @@
 	"setting.particle_cpu_level"		"0"
 	"setting.r_createmodeldecals"		"0"
 	"setting.r_decals"		"0"
-	"setting.r_lod_switch_scale"		"0.6"
+	"setting.r_lod_switch_scale"		"0.1"
 	"setting.shadow_enable"		"0"
 	"setting.shadow_depth_dimen_min"		"0"
 	"setting.shadow_depth_upres_factor_max"		"0"
