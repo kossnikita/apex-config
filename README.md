@@ -9,6 +9,7 @@
 | `+exec`  | Executes a cfg file on startup  |
 | `-window`  | Starts the game in windowed mode  |
 | `-noborder`  | Removes window border  |
+| `+reticle_color R G B`  | Sets a unrestricted RGB value for the reticle color |
 
 ## Autoexec
 1. Go to the games directory. (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg)
